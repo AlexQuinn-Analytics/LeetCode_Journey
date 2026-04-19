@@ -1,0 +1,6 @@
+Description
+A transformation sequence from word beginWord to word endWord using a dictionary wordList is a sequence of wordsbeginWord → s₁ → s₂ → … → endWord such that:
+Every adjacent pair of words differs by a single letter.
+Every sᵢ for 1 ≤ i ≤ k is in wordList.
+endWord is in wordList.
+Return the number of words in the shortest transformation sequence from beginWord to endWord, or 0 if no such sequence exists.
