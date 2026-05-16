@@ -1,0 +1,17 @@
+Print the elements of an array in the decreasing frequency. If 2 numbers have same frequency then print the one which came first.
+
+Constraints:
+1 <= nums.length <= 600
+0 <= nums[i] <= 300
+
+输入
+A array of integers
+输出
+The array that has been sorted
+题目限制
+时间限制：C/C++语言 1000 MS；其他语言 3000 MS
+内存限制：C/C++语言 65536KB；其他语言 589824KB
+样例输入
+[2,5,2,8,5,6,8,8]
+样例输出
+[8,8,8,2,2,5,5,6]
