@@ -1,0 +1,33 @@
+Copy List with Random Pointer（类似clone graph）
+题目描述
+A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
+
+The first node of the list is given/should be returned in the input/output. The node definition is in the coding area. In the node, next refers to the next node in an normal linked list, and random points to a node in the list, or null if it does not point to any node.
+
+Return a deep copy of the list. 
+
+NOTE: Please use Java or Python for this problem.
+
+Example 1:
+
+Input: head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
+Output: [[7,null],[13,0],[11,4],[10,2],[1,0]]
+
+Example 2:
+
+Input: head = [[1,1],[2,1]]Output: [[1,1],[2,1]]
+
+Constraints:
+0 <= n <= 1000
+-104 <= Node.val <= 104
+
+输入
+The first node of a linked list. In the examples we use an array to represent the list, and each node is represented as a list of two elements: [value, random]. Node in the i-th position has next pointing to node in the (i+1)-th position of the array, and the last node's next points to null.
+输出
+The first node of the deepcopied list
+
+Due to system restrictions on validation, we cannot display the node of the sample output. The actual output should be a list exactly the same (but with different nodes) as the input. Please ignore the sample output.
+样例输入
+[[7,null],[13,0],[11,4],[10,2],[1,0]]
+样例输出
+1
