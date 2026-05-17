@@ -1,0 +1,28 @@
+
+Next Greater Element II
+Given a circular array (the next element of the last element is the first element of the array), print the Next Greater Number for every element. The Next Greater Number of a number x is the first greater number to its traversing-order next in the array, which means you could search circularly to find its next greater number. If it doesn't exist, output -1 for this number.
+
+Example:
+Input: [1,2,1]Output: [2,-1,2]Explanation: The first 1's next greater number is 2; The number 2 can't find next greater number; The second 1's next greater number needs to search circularly, which is also 2.
+
+Constraints:
+1 <= nums.length <= 104
+-109 <= nums[i] <= 109
+
+输入
+An array of integers
+
+3 --> length of array
+1 --> 1st integer
+2 --> 2nd integer
+1 --> 3rd integer
+
+输出
+An array of integers of the same size with the input array, the ith element of which is the next greater number.
+题目限制
+时间限制：C/C++语言 1000 MS；其他语言 3000 MS
+内存限制：C/C++语言 65536KB；其他语言 589824KB
+样例输入
+3 1 2 1
+样例输出
+2 -1 2
