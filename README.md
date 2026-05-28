@@ -3,7 +3,7 @@
 This repository documents my daily progress, logic refactoring, and problem-solving strategies as I prepare for 2026 SDE Internship recruiting. 
 
 ## 🔭 The "Why"
-Moving from a background in English Linguistics to Computer Science, I don't just aim for "Acceptance." I aim for a deep understanding of **Computational Thinking**. Every solution here is analyzed through the lens of time/space complexity and hardware-level logic.
+Moving from a background in English Linguistics to Computer Science, I don't just aim for "Acceptance." I aim for a deep understanding of **Computational Thinking**. 
 
 ---
 
