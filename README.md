@@ -32,7 +32,7 @@ Optimizing search and modification tasks from $O(n^2)$ to $O(n)$.
 
 ## 📈 Roadmap & Milestones
 - [x] **Month 1: Foundations** - Basic Data Structures (Arrays, Lists, Bitwise).
-- [ ] **Month 2: Traversal & Recursion** - Trees, Graphs, DFS/BFS.
+- [x] **Month 2: Traversal & Recursion** - Trees, Graphs, DFS/BFS.
 - [ ] **Month 3: Optimization** - Dynamic Programming & Greedy Algorithms.
 - [ ] **Month 4: System Design & OOD** - Moving from functions to systems.
 - [ ] **Month 5: Mock Interviews** - Refining communication and English technical delivery.
